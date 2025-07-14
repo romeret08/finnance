@@ -14,6 +14,8 @@ Payment Calendar: View all upcoming payments in an interactive calendar to stay 
 
 Responsive UI: Sleek, modern interface powered by shadcn/ui, fully responsive for desktop and mobile.
 
+Transaction Management: Add, edit, delete and duplicate entries. Import or export transactions as CSV or Excel files and attach receipts.
+
 🛠️ Tech Stack
 
 Framework: React
