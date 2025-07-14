@@ -1,4 +1,4 @@
-FinnanceAPP
+FinnanceApp
 
 Personal Finance App built with shadcn/ui to help you manage and track all your personal expenses, bills, properties, vehicles, and payment schedules in one place.
 
@@ -30,8 +30,8 @@ Calendar: FullCalendar or React Calendar integration
 
 Clone the repo
 
-git clone https://github.com/your-username/finnanceapp.git
-cd finnanceapp
+git clone https://github.com/your-username/finnance.git
+cd finnance
 
 Install dependencies
 
